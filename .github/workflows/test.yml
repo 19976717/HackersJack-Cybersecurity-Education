@@ -1,9 +1,12 @@
-name: Unit tests without private data
+name: HackersJack Python Tests
 
-on: [push, pull_request]
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
 
 jobs:
-  unit-tests:
+  test:
     runs-on: ubuntu-latest
 
     steps:
@@ -16,7 +19,10 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install pytest
 
-      - name: Run automated tests
+      - name: Run Python tests
         run: python -m pytest -q
