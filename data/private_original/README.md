@@ -1,0 +1,1 @@
+PRIVATE INPUT DIRECTORY. Never upload source Excel files or student codes to public GitHub. Place exactly 12 approved original workbooks here on an authorised local computer. Do not place duplicated (1)/(2)/(3) versions alongside originals.

@@ -1,0 +1,9 @@
+component,occasion,status,records
+MCQ,post,unavailable,38
+MCQ,post,valid,251
+MCQ,pre,unavailable,32
+MCQ,pre,valid,257
+TF,post,unavailable,34
+TF,post,valid,255
+TF,pre,unavailable,30
+TF,pre,valid,259

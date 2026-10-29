@@ -1,0 +1,21 @@
+# Final submission checklist — mark each item only after confirming
+
+- [ ] Editor decision letter and exact manuscript/journal identity verified; reviewer PDF alone is not an acceptance notice.
+- [ ] Grade 6 JK workbook's internal `6SH` sheet-name inconsistency explained and verified with source owner.
+- [ ] All 12 authoritative workbooks selected, hashes saved privately, no duplicate versions mixed.
+- [ ] Script rerun on institution-approved computer and verified by a second researcher.
+- [ ] All N, means, SDs, gains, confidence intervals, t, dz checked against final revised manuscript.
+- [ ] Original pre/post question text and answer keys located or their absence transparently disclosed.
+- [ ] Same-versus-different item wording confirmed, or explicitly reported as unknown.
+- [ ] Pre/post dates and time interval confirmed, or reported as unavailable.
+- [ ] Teacher count, school count, roles, delivery and activity instructions confirmed, or reported as unavailable.
+- [ ] Parental consent and child assent procedures checked against approved records.
+- [ ] No delayed test, survey or control group falsely implied.
+- [ ] Ceiling effects and practice effects discussed in the current findings.
+- [ ] Data-sharing decision approved by ethics/data custodian; no student codes published.
+- [ ] GitHub repo exists, links tested, approved materials only; public/private status described accurately.
+- [ ] Unit tests and pipeline run; versions and commit SHA recorded.
+- [ ] Each reviewer point answered with precise revised page/line and supplement references.
+- [ ] RQ4 layout and explicit research-question answers checked.
+- [ ] Figures and tables consistent with recomputed results.
+- [ ] All coauthors approve revised manuscript and response.
