@@ -5,7 +5,7 @@ import argparse, csv, hashlib, json, re, sys
 from collections import defaultdict
 from pathlib import Path
 from statistics import mean, stdev
-from artifact_tool import Blob, SpreadsheetFile
+
 from scipy import stats
 
 OUTCOMES=('MCQ','TF','Combined')
