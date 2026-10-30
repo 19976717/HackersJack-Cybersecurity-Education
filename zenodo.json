@@ -1,0 +1,25 @@
+{
+  "title": "HackersJack: Major Revision and Reproducibility Kit",
+  "upload_type": "software",
+  "description": "Data, analysis scripts, and outputs supporting a reproducible statistical analysis of pre- and post-assessment cybersecurity knowledge among Grade 5 and Grade 6 students participating in HackersJack, a cybersecurity education program. This archived release preserves the exact version of the materials used in the associated study.",
+  "creators": [
+    {
+      "name": "Al-Quraishi, Tahsien",
+      "affiliation": "School of Business, Melbourne Institute of Technology, Melbourne, Australia; College of Science, Al-Ayen Iraqi University, Nasiriyah, Iraq"
+    },
+    {
+      "name": "Nowrozy, Raza",
+      "orcid": "0000-0002-9886-0978"
+    }
+  ],
+  "keywords": [
+    "cybersecurity education",
+    "primary school",
+    "pre-post assessment",
+    "reproducibility",
+    "statistical analysis"
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "language": "eng"
+}

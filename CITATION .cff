@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software or materials, please cite them as below."
+type: software
+title: "HackersJack: Major Revision and Reproducibility Kit"
+version: 1.0.0
+date-released: 2026-10-29
+license: MIT
+repository-code: "https://github.com/19976717/HackersJack-Cybersecurity-Education"
+abstract: "Reproducible statistical analysis of pre- and post-assessment cybersecurity knowledge among Grade 5 and Grade 6 students participating in HackersJack."
+authors:
+  - family-names: Al-Quraishi
+    given-names: Tahsien
+    affiliation: "School of Business, Melbourne Institute of Technology, Melbourne, Australia; College of Science, Al-Ayen Iraqi University, Nasiriyah, Iraq"
+  - family-names: Nowrozy
+    given-names: Raza
+    orcid: "https://orcid.org/0000-0002-9886-0978"
+keywords:
+  - cybersecurity education
+  - primary school
+  - pre-post assessment
+  - reproducibility
+  - statistical analysis
